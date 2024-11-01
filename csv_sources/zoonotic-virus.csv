@@ -1,0 +1,911 @@
+Taxon,GenomeType,Zoonotic
+Newcastle disease virus,(-) ssRNA,Zoonotic
+West Nile virus,(+) ssRNA,Zoonotic
+Rabies lyssavirus,(-) ssRNA,Zoonotic
+St. Louis encephalitis virus,(+) ssRNA,Zoonotic
+Eastern equine encephalitis virus,(+) ssRNA,Zoonotic
+Frog virus 3,dsDNA,Not zoonotic
+Venezuelan equine encephalitis virus,(+) ssRNA,Zoonotic
+Influenza A virus,(-) ssRNA,Zoonotic
+Oncorhynchus 2 novirhabdovirus,(-) ssRNA,Not zoonotic
+Beak and feather disease virus,ssDNA,Not zoonotic
+Bluetongue virus,dsRNA,Not zoonotic
+Tick-borne encephalitis virus,(+) ssRNA,Zoonotic
+Cardiovirus A,(+) ssRNA,Zoonotic
+Japanese encephalitis virus,(+) ssRNA,Zoonotic
+Usutu virus,(+) ssRNA,Zoonotic
+Redspotted grouper nervous necrosis virus,(+) ssRNA,Not zoonotic
+Lymphocystis disease virus 1,dsDNA,Not zoonotic
+Rotavirus A,dsRNA,Zoonotic
+Simian foamy virus,ssRNA-RT,Zoonotic
+California encephalitis orthobunyavirus,(-) ssRNA,Zoonotic
+Infectious spleen and kidney necrosis virus,dsDNA,Not zoonotic
+Bovine viral diarrhea virus 1,(+) ssRNA,Not zoonotic
+Psittacid alphaherpesvirus 1,dsDNA,Not zoonotic
+Canine distemper virus,(-) ssRNA,Not zoonotic
+Cowpox virus,dsDNA,Zoonotic
+Crimean-Congo hemorrhagic fever nairovirus,(-) ssRNA,Zoonotic
+Orthohepevirus A,(+) ssRNA,Zoonotic
+Avian coronavirus,(+) ssRNA,Not zoonotic
+Foot-and-mouth disease virus,(+) ssRNA,Zoonotic
+Highlands J virus,(+) ssRNA,Zoonotic
+Psittaciform 1 bornavirus,(-) ssRNA,Not zoonotic
+Fowlpox virus,dsDNA,Not zoonotic
+Yellow fever virus,(+) ssRNA,Zoonotic
+Infectious pancreatic necrosis virus,dsRNA,Not zoonotic
+Rift Valley fever phlebovirus,(-) ssRNA,Zoonotic
+Ross River virus,(+) ssRNA,Zoonotic
+New Jersey vesiculovirus,(-) ssRNA,Zoonotic
+Carnivore protoparvovirus 1,ssDNA,Not zoonotic
+Ovine gammaherpesvirus 2,dsDNA,Not zoonotic
+Monkeypox virus,dsDNA,Zoonotic
+Western equine encephalitis virus,(+) ssRNA,Zoonotic
+Akabane orthobunyavirus,(-) ssRNA,Not zoonotic
+Bovine alphaherpesvirus 1,dsDNA,Not zoonotic
+Dengue virus,(+) ssRNA,Zoonotic
+Ilheus virus,(+) ssRNA,Zoonotic
+Columbid alphaherpesvirus 1,dsDNA,Not zoonotic
+Simian immunodeficiency virus,ssRNA-RT,Not zoonotic
+Bovine parainfluenza virus 3,(-) ssRNA,Not zoonotic
+Vesicular exanthema of swine virus,(+) ssRNA,Zoonotic
+Bovine fever ephemerovirus,(-) ssRNA,Not zoonotic
+Lymphocytic choriomeningitis mammarenavirus,(-) ssRNA,Zoonotic
+Canarypox virus,dsDNA,Not zoonotic
+Nipah virus,(-) ssRNA,Zoonotic
+Infectious bursal disease virus,dsRNA,Not zoonotic
+Bunyamwera orthobunyavirus,(-) ssRNA,Zoonotic
+Colorado tick fever virus,dsRNA,Zoonotic
+Sindbis virus,(+) ssRNA,Zoonotic
+Andes hantavirus,(-) ssRNA,Zoonotic
+Cetacean morbillivirus,(-) ssRNA,Not zoonotic
+Primate T-lymphotropic virus 1,ssRNA-RT,Zoonotic
+Alcelaphine gammaherpesvirus 1,dsDNA,Not zoonotic
+Aves polyomavirus 1,dsDNA,Not zoonotic
+Duck atadenovirus A,dsDNA,Not zoonotic
+Kyasanur Forest disease virus,(+) ssRNA,Zoonotic
+Fer-de-Lance paramyxovirus,(-) ssRNA,Not zoonotic
+Mammalian 1 bornavirus,(-) ssRNA,Zoonotic
+Mayaro virus,(+) ssRNA,Zoonotic
+Avian metapneumovirus,(-) ssRNA,Not zoonotic
+European bat 1 lyssavirus,(-) ssRNA,Zoonotic
+Mammalian orthoreovirus,dsRNA,Zoonotic
+Powassan virus,(+) ssRNA,Zoonotic
+Whitewater Arroyo mammarenavirus,(-) ssRNA,Zoonotic
+Hantaan hantavirus,(-) ssRNA,Zoonotic
+Indiana vesiculovirus,(-) ssRNA,Zoonotic
+Avian paramyxovirus 2,(-) ssRNA,Not zoonotic
+Human picobirnavirus,dsRNA,Not zoonotic
+Australian bat lyssavirus,(-) ssRNA,Zoonotic
+Betacoronavirus 1,(+) ssRNA,Zoonotic
+Chikungunya virus,(+) ssRNA,Zoonotic
+Sin Nombre hantavirus,(-) ssRNA,Zoonotic
+Tete orthobunyavirus,(-) ssRNA,Not zoonotic
+Avian paramyxovirus 8,(-) ssRNA,Not zoonotic
+Louping ill virus,(+) ssRNA,Zoonotic
+Orf virus,dsDNA,Zoonotic
+Severe acute respiratory syndrome-related coronavirus,(+) ssRNA,Zoonotic
+Suid alphaherpesvirus 1,dsDNA,Zoonotic
+Cyprinid herpesvirus 3,dsDNA,Not zoonotic
+Hepatovirus A,(+) ssRNA,Zoonotic
+Seoul hantavirus,(-) ssRNA,Zoonotic
+Carp sprivivirus,(-) ssRNA,Not zoonotic
+Murray Valley encephalitis virus,(+) ssRNA,Zoonotic
+Phocine distemper virus,(-) ssRNA,Not zoonotic
+Alphacoronavirus 1,(+) ssRNA,Not zoonotic
+Avian orthoreovirus,dsRNA,Not zoonotic
+Avian paramyxovirus 4,(-) ssRNA,Not zoonotic
+Avian paramyxovirus 6,(-) ssRNA,Not zoonotic
+Carnivore amdoparvovirus 1,ssDNA,Zoonotic
+Feline immunodeficiency virus,ssRNA-RT,Not zoonotic
+Feline leukemia virus,ssRNA-RT,Not zoonotic
+Hendra virus,(-) ssRNA,Zoonotic
+Rinderpest virus,(-) ssRNA,Not zoonotic
+Waterbird 1 bornavirus,(-) ssRNA,Not zoonotic
+Avian paramyxovirus 3,(-) ssRNA,Not zoonotic
+Epizootic hemorrhagic disease virus,dsRNA,Not zoonotic
+Equid alphaherpesvirus 1,dsDNA,Not zoonotic
+Macacine alphaherpesvirus 1,dsDNA,Zoonotic
+Measles virus,(-) ssRNA,Zoonotic
+Puumala hantavirus,(-) ssRNA,Zoonotic
+Reptilian orthoreovirus,dsRNA,Not zoonotic
+Bovine respiratory syncytial virus,(-) ssRNA,Not zoonotic
+Mucambo virus,(+) ssRNA,Zoonotic
+African horse sickness virus,dsRNA,Not zoonotic
+Anatid alphaherpesvirus 1,dsDNA,Not zoonotic
+Anopheles B orthobunyavirus,(-) ssRNA,Zoonotic
+Human alphaherpesvirus 1,dsDNA,Zoonotic
+Lumpy skin disease virus,dsDNA,Not zoonotic
+Murine coronavirus,(+) ssRNA,Not zoonotic
+Peste-des-petits-ruminants virus,(-) ssRNA,Not zoonotic
+Pike fry sprivivirus,(-) ssRNA,Not zoonotic
+Reston ebolavirus,(-) ssRNA,Zoonotic
+Rio Bravo virus,(+) ssRNA,Zoonotic
+Santee-Cooper ranavirus,dsDNA,Not zoonotic
+Zaire ebolavirus,(-) ssRNA,Zoonotic
+Aichivirus A,(+) ssRNA,Zoonotic
+Bohle iridovirus,dsDNA,Not zoonotic
+Canine mastadenovirus A,dsDNA,Not zoonotic
+Hepatitis B virus,dsDNA-RT,Zoonotic
+Lagos bat lyssavirus,(-) ssRNA,Not zoonotic
+Marituba orthobunyavirus,(-) ssRNA,Zoonotic
+Una virus,(+) ssRNA,Zoonotic
+Whataroa virus,(+) ssRNA,Zoonotic
+Avian paramyxovirus 7,(-) ssRNA,Not zoonotic
+Bimiti orthobunyavirus,(-) ssRNA,Zoonotic
+Chiropteran dependoparvovirus 1,ssDNA,Not zoonotic
+Dobrava-Belgrade hantavirus,(-) ssRNA,Zoonotic
+Everglades virus,(+) ssRNA,Zoonotic
+Gallid alphaherpesvirus 2,dsDNA,Zoonotic
+Guama orthobunyavirus,(-) ssRNA,Zoonotic
+Human gammaherpesvirus 4,dsDNA,Zoonotic
+Macropodid alphaherpesvirus 1,dsDNA,Not zoonotic
+Main Drain orthobunyavirus,(-) ssRNA,Not zoonotic
+Manzanilla orthobunyavirus,(-) ssRNA,Zoonotic
+Mason-Pfizer monkey virus,ssRNA-RT,Zoonotic
+Oncorhynchus 1 novirhabdovirus,(-) ssRNA,Not zoonotic
+Reticuloendotheliosis virus,ssRNA-RT,Not zoonotic
+Tacaribe mammarenavirus,(-) ssRNA,Zoonotic
+Wesselsbron virus,(+) ssRNA,Zoonotic
+Caprine gammaherpesvirus 2,dsDNA,Not zoonotic
+Chelonid alphaherpesvirus 6,dsDNA,Not zoonotic
+Deltapapillomavirus 4,dsDNA,Not zoonotic
+Enterovirus B,(+) ssRNA,Zoonotic
+Lassa mammarenavirus,(-) ssRNA,Zoonotic
+Phocid alphaherpesvirus 1,dsDNA,Not zoonotic
+Phocid gammaherpesvirus 2,dsDNA,Not zoonotic
+Qalyub nairovirus,(-) ssRNA,Not zoonotic
+Sendai virus,(-) ssRNA,Not zoonotic
+Shuni orthobunyavirus,(-) ssRNA,Zoonotic
+Thiafora nairovirus,(-) ssRNA,Zoonotic
+Tula hantavirus,(-) ssRNA,Zoonotic
+Aquareovirus A,dsRNA,Not zoonotic
+Avian paramyxovirus 9,(-) ssRNA,Not zoonotic
+Cardiovirus B,(+) ssRNA,Zoonotic
+Catu orthobunyavirus,(-) ssRNA,Zoonotic
+Chandipura vesiculovirus,(-) ssRNA,Zoonotic
+Enterovirus A,(+) ssRNA,Zoonotic
+Equine torovirus,(+) ssRNA,Not zoonotic
+Felid alphaherpesvirus 1,dsDNA,Not zoonotic
+Great Island virus,dsRNA,Zoonotic
+Hirame novirhabdovirus,(-) ssRNA,Not zoonotic
+Junin mammarenavirus,(-) ssRNA,Zoonotic
+Murid gammaherpesvirus 4,dsDNA,Not zoonotic
+Murine pneumonia virus,(-) ssRNA,Zoonotic
+Nelson Bay orthoreovirus,dsRNA,Zoonotic
+Parainfluenza virus 5,(-) ssRNA,Zoonotic
+Pegivirus A,(+) ssRNA,Zoonotic
+Piscihepevirus A,(+) ssRNA,Not zoonotic
+Primate T-lymphotropic virus 3,ssRNA-RT,Zoonotic
+Snake atadenovirus A,dsDNA,Not zoonotic
+Striped Jack nervous necrosis virus,(+) ssRNA,Not zoonotic
+Vaccinia virus,dsDNA,Zoonotic
+Aroa virus,(+) ssRNA,Zoonotic
+Bat mastadenovirus A,dsDNA,Not zoonotic
+Bovine gammaherpesvirus 4,dsDNA,Not zoonotic
+Dhori virus,(-) ssRNA,Zoonotic
+Enterovirus F,(+) ssRNA,Not zoonotic
+Equid gammaherpesvirus 2,dsDNA,Not zoonotic
+Equid gammaherpesvirus 5,dsDNA,Not zoonotic
+Feline calicivirus,(+) ssRNA,Not zoonotic
+Human gammaherpesvirus 8,dsDNA,Zoonotic
+Mamastrovirus 17,(+) ssRNA,Not zoonotic
+Marburg marburgvirus,(-) ssRNA,Zoonotic
+Molluscum contagiosum virus,dsDNA,Zoonotic
+Murid betaherpesvirus 2,dsDNA,Not zoonotic
+Norwalk virus,(+) ssRNA,Zoonotic
+Omsk hemorrhagic fever virus,(+) ssRNA,Zoonotic
+Rio Mamore hantavirus,(-) ssRNA,Zoonotic
+Sathuperi orthobunyavirus,(-) ssRNA,Not zoonotic
+Semliki Forest virus,(+) ssRNA,Zoonotic
+Squamate dependoparvovirus 1,ssDNA,Not zoonotic
+Uukuniemi phlebovirus,(-) ssRNA,Zoonotic
+Adeno-associated dependoparvovirus A,ssDNA,Zoonotic
+Aichivirus B,(+) ssRNA,Not zoonotic
+Aquareovirus C,dsRNA,Not zoonotic
+Barmah Forest virus,(+) ssRNA,Zoonotic
+Bayou hantavirus,(-) ssRNA,Zoonotic
+Border disease virus,(+) ssRNA,Not zoonotic
+Bovine viral diarrhea virus 2,(+) ssRNA,Not zoonotic
+Caraparu orthobunyavirus,(-) ssRNA,Zoonotic
+Cercopithecine alphaherpesvirus 9,dsDNA,Not zoonotic
+Changuinola virus,dsRNA,Zoonotic
+Chobar Gorge virus,dsRNA,Zoonotic
+Enterovirus C,(+) ssRNA,Zoonotic
+Enterovirus J,(+) ssRNA,Not zoonotic
+Eyach virus,dsRNA,Zoonotic
+Hepatitis C virus,(+) ssRNA,Zoonotic
+Kotonkan ephemerovirus,(-) ssRNA,Zoonotic
+Mamastrovirus 18,(+) ssRNA,Not zoonotic
+Murid betaherpesvirus 1,dsDNA,Not zoonotic
+Orthohepevirus C,(+) ssRNA,Not zoonotic
+Parechovirus B,(+) ssRNA,Zoonotic
+Rotavirus B,dsRNA,Zoonotic
+SFTS phlebovirus,(-) ssRNA,Zoonotic
+Shamonda orthobunyavirus,(-) ssRNA,Not zoonotic
+Tembusu virus,(+) ssRNA,Zoonotic
+Thogoto virus,(-) ssRNA,Zoonotic
+Turlock orthobunyavirus,(-) ssRNA,Not zoonotic
+African swine fever virus,dsDNA,Not zoonotic
+Avastrovirus 2,(+) ssRNA,Not zoonotic
+Bagaza virus,(+) ssRNA,Zoonotic
+Bakau orthobunyavirus,(-) ssRNA,Zoonotic
+Barfin flounder nervous necrosis virus,(+) ssRNA,Not zoonotic
+Bat hepatitis virus,dsDNA-RT,Not zoonotic
+Bat mastadenovirus B,dsDNA,Not zoonotic
+Bovine leukemia virus,ssRNA-RT,Zoonotic
+Corriparta virus,dsRNA,Zoonotic
+Dugbe nairovirus,(-) ssRNA,Zoonotic
+El Moro Canyon hantavirus,(-) ssRNA,Not zoonotic
+Falcon aviadenovirus A,dsDNA,Not zoonotic
+Flanders virus,(-) ssRNA,Not zoonotic
+Fowl aviadenovirus A,dsDNA,Not zoonotic
+Fowl aviadenovirus D,dsDNA,Not zoonotic
+Human coronavirus 229E,(+) ssRNA,Zoonotic
+Human parainfluenza virus 3,(-) ssRNA,Zoonotic
+Influenza B virus,(-) ssRNA,Zoonotic
+Kokobera virus,(+) ssRNA,Zoonotic
+Laguna Negra hantavirus,(-) ssRNA,Zoonotic
+Lambdapapillomavirus 1,dsDNA,Not zoonotic
+Macacine gammaherpesvirus 5,dsDNA,Not zoonotic
+Mokola lyssavirus,(-) ssRNA,Zoonotic
+Myxoma virus,dsDNA,Not zoonotic
+Ngaingan virus,(-) ssRNA,Not zoonotic
+O'nyong-nyong virus,(+) ssRNA,Zoonotic
+Orthohepevirus D,(+) ssRNA,Not zoonotic
+Orungo virus,dsRNA,Zoonotic
+Palyam virus,dsRNA,Zoonotic
+Pipapillomavirus 2,dsDNA,Not zoonotic
+Porcine rubulavirus,(-) ssRNA,Not zoonotic
+Primate tetraparvovirus 1,ssDNA,Zoonotic
+Rabbit hemorrhagic disease virus,(+) ssRNA,Not zoonotic
+Raptor siadenovirus A,dsDNA,Not zoonotic
+Rhinolophus bat coronavirus HKU2,(+) ssRNA,Not zoonotic
+Rotavirus C,dsRNA,Zoonotic
+Saboya virus,(+) ssRNA,Not zoonotic
+Salmon pancreas disease virus,(+) ssRNA,Not zoonotic
+Sapporo virus,(+) ssRNA,Zoonotic
+Simian hemorrhagic fever virus,(+) ssRNA,Not zoonotic
+Tacaiuma orthobunyavirus,(-) ssRNA,Zoonotic
+Tremovirus A,(+) ssRNA,Not zoonotic
+Tyuleniy virus,(+) ssRNA,Zoonotic
+Uganda S virus,(+) ssRNA,Zoonotic
+Adeno-associated dependoparvovirus B,ssDNA,Zoonotic
+Alagoas vesiculovirus,(-) ssRNA,Zoonotic
+Alcelaphine gammaherpesvirus 2,dsDNA,Not zoonotic
+Aquareovirus G,dsRNA,Not zoonotic
+Avastrovirus 3,(+) ssRNA,Zoonotic
+Banzi virus,(+) ssRNA,Zoonotic
+Bovine papular stomatitis virus,dsDNA,Zoonotic
+Cabassou virus,(+) ssRNA,Not zoonotic
+Cacipacore virus,(+) ssRNA,Zoonotic
+Cercopithecine betaherpesvirus 5,dsDNA,Zoonotic
+Chelonid alphaherpesvirus 5,dsDNA,Not zoonotic
+Dakar bat virus,(+) ssRNA,Zoonotic
+Ectromelia virus,dsDNA,Not zoonotic
+Enterovirus G,(+) ssRNA,Zoonotic
+Equid alphaherpesvirus 9,dsDNA,Not zoonotic
+Equine arteritis virus,(+) ssRNA,Not zoonotic
+Equine encephalosis virus,dsRNA,Not zoonotic
+Fort Morgan virus,(+) ssRNA,Not zoonotic
+Gallid alphaherpesvirus 1,dsDNA,Not zoonotic
+Getah virus,(+) ssRNA,Zoonotic
+Guajara orthobunyavirus,(-) ssRNA,Not zoonotic
+Human alphaherpesvirus 2,dsDNA,Zoonotic
+Human mastadenovirus B,dsDNA,Zoonotic
+Human mastadenovirus C,dsDNA,Zoonotic
+Human mastadenovirus E,dsDNA,Zoonotic
+Khabarovsk hantavirus,(-) ssRNA,Not zoonotic
+Koutango virus,(+) ssRNA,Zoonotic
+Macaca mulatta polyomavirus 1,dsDNA,Zoonotic
+Madrid orthobunyavirus,(-) ssRNA,Zoonotic
+Mamastrovirus 15,(+) ssRNA,Not zoonotic
+Modoc virus,(+) ssRNA,Zoonotic
+Oliveros mammarenavirus,(-) ssRNA,Not zoonotic
+Oriboca orthobunyavirus,(-) ssRNA,Zoonotic
+Patois orthobunyavirus,(-) ssRNA,Zoonotic
+Pichinde mammarenavirus,(-) ssRNA,Zoonotic
+Prospect Hill hantavirus,(-) ssRNA,Zoonotic
+Royal Farm virus,(+) ssRNA,Not zoonotic
+Sakhalin nairovirus,(-) ssRNA,Not zoonotic
+Salmonid herpesvirus 2,dsDNA,Not zoonotic
+Tanapox virus,dsDNA,Zoonotic
+Thailand hantavirus,(-) ssRNA,Zoonotic
+Tonate virus,(+) ssRNA,Zoonotic
+Wallal virus,dsRNA,Not zoonotic
+Warrego virus,dsRNA,Not zoonotic
+Yaba monkey tumor virus,dsDNA,Zoonotic
+Zegla orthobunyavirus,(-) ssRNA,Zoonotic
+Acipenserid herpesvirus 2,dsDNA,Not zoonotic
+Alphapapillomavirus 10,dsDNA,Zoonotic
+Alphapapillomavirus 12,dsDNA,Not zoonotic
+Ambystoma tigrinum virus,dsDNA,Not zoonotic
+Aravan lyssavirus,(-) ssRNA,Not zoonotic
+Ateline gammaherpesvirus 3,dsDNA,Not zoonotic
+Avian leukosis virus,ssRNA-RT,Not zoonotic
+Avihepatovirus A,(+) ssRNA,Not zoonotic
+Banna virus,dsRNA,Zoonotic
+Betapapillomavirus 1,dsDNA,Zoonotic
+Bovine gammaherpesvirus 6,dsDNA,Not zoonotic
+Bovine immunodeficiency virus,ssRNA-RT,Not zoonotic
+Bovine torovirus,(+) ssRNA,Zoonotic
+Candiru phlebovirus,(-) ssRNA,Zoonotic
+Capim orthobunyavirus,(-) ssRNA,Not zoonotic
+Chenuda virus,dsRNA,Not zoonotic
+Cyprinid herpesvirus 1,dsDNA,Not zoonotic
+Cyprinid herpesvirus 2,dsDNA,Not zoonotic
+Edge Hill virus,(+) ssRNA,Zoonotic
+Entebbe bat virus,(+) ssRNA,Not zoonotic
+Enterovirus D,(+) ssRNA,Zoonotic
+Equine rhinitis A virus,(+) ssRNA,Zoonotic
+European bat 2 lyssavirus,(-) ssRNA,Zoonotic
+European brown hare syndrome virus,(+) ssRNA,Not zoonotic
+Flexal mammarenavirus,(-) ssRNA,Zoonotic
+Fowl aviadenovirus B,dsDNA,Not zoonotic
+Fowl aviadenovirus E,dsDNA,Not zoonotic
+Gadgets Gully virus,(+) ssRNA,Zoonotic
+Ground squirrel hepatitis virus,dsDNA-RT,Not zoonotic
+Guanarito mammarenavirus,(-) ssRNA,Zoonotic
+Gull circovirus,ssDNA,Not zoonotic
+Hughes nairovirus,(-) ssRNA,Zoonotic
+Human mastadenovirus F,dsDNA,Zoonotic
+Human mastadenovirus G,dsDNA,Zoonotic
+Human metapneumovirus,(-) ssRNA,Zoonotic
+Human respiratory syncytial virus,(-) ssRNA,Zoonotic
+Influenza C virus,(-) ssRNA,Zoonotic
+Kaeng Khoi orthobunyavirus,(-) ssRNA,Zoonotic
+Khujand lyssavirus,(-) ssRNA,Not zoonotic
+Machupo mammarenavirus,(-) ssRNA,Zoonotic
+Macropodid alphaherpesvirus 2,dsDNA,Not zoonotic
+Mamastrovirus 13,(+) ssRNA,Not zoonotic
+Meaban virus,(+) ssRNA,Not zoonotic
+Melegrivirus A,(+) ssRNA,Not zoonotic
+Miniopterus bat coronavirus 1,(+) ssRNA,Not zoonotic
+Mobala mammarenavirus,(-) ssRNA,Not zoonotic
+Mule deerpox virus,dsDNA,Not zoonotic
+Murid gammaherpesvirus 7,dsDNA,Not zoonotic
+Murine leukemia virus,ssRNA-RT,Not zoonotic
+Nile crocodilepox virus,dsDNA,Not zoonotic
+Oropouche orthobunyavirus,(-) ssRNA,Zoonotic
+Orthohepevirus B,(+) ssRNA,Not zoonotic
+Perch perhabdovirus,(-) ssRNA,Not zoonotic
+Pigeonpox virus,dsDNA,Not zoonotic
+Pirital mammarenavirus,(-) ssRNA,Not zoonotic
+Piry vesiculovirus,(-) ssRNA,Zoonotic
+Primate bocaparvovirus 1,ssDNA,Zoonotic
+Pseudocowpox virus,dsDNA,Zoonotic
+Rio Segundo hantavirus,(-) ssRNA,Not zoonotic
+Rodent protoparvovirus 1,ssDNA,Not zoonotic
+Rosavirus A,(+) ssRNA,Zoonotic
+Saimiriine gammaherpesvirus 2,dsDNA,Zoonotic
+Salehabad phlebovirus,(-) ssRNA,Zoonotic
+Sandfly fever Naples phlebovirus,(-) ssRNA,Zoonotic
+Senecavirus A,(+) ssRNA,Not zoonotic
+Shimoni bat lyssavirus,(-) ssRNA,Not zoonotic
+Simbu orthobunyavirus,(-) ssRNA,Zoonotic
+Tai Forest ebolavirus,(-) ssRNA,Zoonotic
+Tamiami mammarenavirus,(-) ssRNA,Zoonotic
+Thimiri orthobunyavirus,(-) ssRNA,Not zoonotic
+Tibrogargan tibrovirus,(-) ssRNA,Not zoonotic
+Wad Medani virus,dsRNA,Not zoonotic
+Wyeomyia orthobunyavirus,(-) ssRNA,Zoonotic
+Yunnan orbivirus,dsRNA,Not zoonotic
+Acara orthobunyavirus,(-) ssRNA,Not zoonotic
+Aichivirus C,(+) ssRNA,Not zoonotic
+Alethinophid 3 reptarenavirus,(-) ssRNA,Not zoonotic
+Allpahuayo mammarenavirus,(-) ssRNA,Not zoonotic
+Alphapapillomavirus 14,dsDNA,Zoonotic
+Amapari mammarenavirus,(-) ssRNA,Not zoonotic
+Anguillid herpesvirus 1,dsDNA,Not zoonotic
+Anguillid perhabdovirus,(-) ssRNA,Not zoonotic
+Apoi virus,(+) ssRNA,Zoonotic
+Aquamavirus A,(+) ssRNA,Not zoonotic
+Aquareovirus B,dsRNA,Not zoonotic
+Aquareovirus F,dsRNA,Not zoonotic
+Ateline gammaherpesvirus 2,dsDNA,Not zoonotic
+Atlantic salmon paramyxovirus,(-) ssRNA,Not zoonotic
+Avian dependoparvovirus 1,ssDNA,Zoonotic
+Avisivirus A,(+) ssRNA,Not zoonotic
+Batama orthobunyavirus,(-) ssRNA,Not zoonotic
+Bear Canyon mammarenavirus,(-) ssRNA,Not zoonotic
+Beluga whale coronavirus SW1,(+) ssRNA,Not zoonotic
+Benevides orthobunyavirus,(-) ssRNA,Not zoonotic
+Black Creek Canal hantavirus,(-) ssRNA,Zoonotic
+Bos taurus polyomavirus 1,dsDNA,Zoonotic
+Bovine alphaherpesvirus 5,dsDNA,Not zoonotic
+Bovine mastadenovirus B,dsDNA,Not zoonotic
+Bujaru phlebovirus,(-) ssRNA,Zoonotic
+Bwamba orthobunyavirus,(-) ssRNA,Zoonotic
+Camelpox virus,dsDNA,Zoonotic
+Caprine alphaherpesvirus 1,dsDNA,Not zoonotic
+Carey Island virus,(+) ssRNA,Not zoonotic
+Cercopithecine alphaherpesvirus 2,dsDNA,Not zoonotic
+Classical swine fever virus,(+) ssRNA,Not zoonotic
+Coastal Plains tibrovirus,(-) ssRNA,Not zoonotic
+Cocal vesiculovirus,(-) ssRNA,Not zoonotic
+Cosavirus A,(+) ssRNA,Zoonotic
+Cowbone Ridge virus,(+) ssRNA,Not zoonotic
+Duck circovirus,ssDNA,Not zoonotic
+Duvenhage lyssavirus,(-) ssRNA,Zoonotic
+Dyozetapapillomavirus 1,dsDNA,Not zoonotic
+Elephantid betaherpesvirus 1,dsDNA,Not zoonotic
+Enterovirus E,(+) ssRNA,Not zoonotic
+Enterovirus H,(+) ssRNA,Zoonotic
+Epizootic haematopoietic necrosis virus,dsDNA,Not zoonotic
+Equid alphaherpesvirus 4,dsDNA,Not zoonotic
+Equid alphaherpesvirus 8,dsDNA,Not zoonotic
+Equine infectious anemia virus,ssRNA-RT,Not zoonotic
+European catfish virus,dsDNA,Not zoonotic
+Gallid alphaherpesvirus 3,dsDNA,Not zoonotic
+Galliform aveparvovirus 1,ssDNA,Not zoonotic
+Gallivirus A,(+) ssRNA,Not zoonotic
+Gibbon ape leukemia virus,ssRNA-RT,Not zoonotic
+Goatpox virus,dsDNA,Not zoonotic
+Heron hepatitis B virus,dsDNA-RT,Not zoonotic
+Human mastadenovirus A,dsDNA,Zoonotic
+Human mastadenovirus D,dsDNA,Zoonotic
+Hunnivirus A,(+) ssRNA,Not zoonotic
+Infectious salmon anemia virus,(-) ssRNA,Not zoonotic
+Ippy mammarenavirus,(-) ssRNA,Not zoonotic
+Irkut lyssavirus,(-) ssRNA,Not zoonotic
+Isfahan vesiculovirus,(-) ssRNA,Zoonotic
+Jaagsiekte sheep retrovirus,ssRNA-RT,Not zoonotic
+Kairi orthobunyavirus,(-) ssRNA,Zoonotic
+Kappapapillomavirus 2,dsDNA,Not zoonotic
+Langur virus,ssRNA-RT,Not zoonotic
+Lebombo virus,dsRNA,Zoonotic
+M'Poko orthobunyavirus,(-) ssRNA,Zoonotic
+Macacine betaherpesvirus 3,dsDNA,Not zoonotic
+Madariaga virus,(+) ssRNA,Zoonotic
+Mamastrovirus 11,(+) ssRNA,Not zoonotic
+Mamastrovirus 14,(+) ssRNA,Not zoonotic
+Mamastrovirus 2,(+) ssRNA,Not zoonotic
+Mamastrovirus 3,(+) ssRNA,Not zoonotic
+Meleagrid alphaherpesvirus 1,dsDNA,Not zoonotic
+Midway nyavirus,(-) ssRNA,Not zoonotic
+Miniopterus bat coronavirus HKU8,(+) ssRNA,Not zoonotic
+Montana myotis leukoencephalitis virus,(+) ssRNA,Zoonotic
+Mosavirus A,(+) ssRNA,Not zoonotic
+Mouse mammary tumor virus,ssRNA-RT,Zoonotic
+Ndumu virus,(+) ssRNA,Zoonotic
+New York hantavirus,(-) ssRNA,Zoonotic
+Ntaya virus,(+) ssRNA,Zoonotic
+Omikronpapillomavirus 1,dsDNA,Not zoonotic
+Oscivirus A,(+) ssRNA,Not zoonotic
+Ovine atadenovirus D,dsDNA,Not zoonotic
+Papiine alphaherpesvirus 2,dsDNA,Not zoonotic
+Papiine betaherpesvirus 3,dsDNA,Zoonotic
+Passeriform 2 bornavirus,(-) ssRNA,Not zoonotic
+Passerivirus A,(+) ssRNA,Not zoonotic
+Phnom Penh bat virus,(+) ssRNA,Not zoonotic
+Pigeon circovirus,ssDNA,Not zoonotic
+Pipapillomavirus 1,dsDNA,Not zoonotic
+Pipistrellus bat coronavirus HKU5,(+) ssRNA,Not zoonotic
+Pixuna virus,(+) ssRNA,Not zoonotic
+Porcine circovirus 2,ssDNA,Not zoonotic
+Porcine reproductive and respiratory syndrome virus 1,(+) ssRNA,Not zoonotic
+Primate erythroparvovirus 2,ssDNA,Zoonotic
+Primate T-lymphotropic virus 2,ssRNA-RT,Zoonotic
+Puma lentivirus,ssRNA-RT,Not zoonotic
+Rabbit fibroma virus,dsDNA,Not zoonotic
+Rio Negro virus,(+) ssRNA,Zoonotic
+Rotavirus D,dsRNA,Not zoonotic
+Rotavirus G,dsRNA,Not zoonotic
+Rotavirus H,dsRNA,Zoonotic
+Saaremaa hantavirus,(-) ssRNA,Zoonotic
+Saimiriine alphaherpesvirus 1,dsDNA,Not zoonotic
+Sakobuvirus A,(+) ssRNA,Not zoonotic
+Salivirus A,(+) ssRNA,Zoonotic
+Sangassou hantavirus,(-) ssRNA,Zoonotic
+Sapelovirus A,(+) ssRNA,Not zoonotic
+Sapelovirus B,(+) ssRNA,Not zoonotic
+Sea trout perhabdovirus,(-) ssRNA,Not zoonotic
+Sheeppox virus,dsDNA,Not zoonotic
+Simian mastadenovirus A,dsDNA,Not zoonotic
+Simian virus 41,(-) ssRNA,Zoonotic
+Squirrel fibroma virus,dsDNA,Not zoonotic
+Squirrelpox virus,dsDNA,Not zoonotic
+Starling circovirus,ssDNA,Not zoonotic
+Teschovirus A,(+) ssRNA,Not zoonotic
+Thottapalayam hantavirus,(-) ssRNA,Zoonotic
+Tiger puffer nervous necrosis virus,(+) ssRNA,Not zoonotic
+Torque teno sus virus 1a,ssDNA,Not zoonotic
+Torque teno sus virus 1b,ssDNA,Not zoonotic
+Turkey siadenovirus A,dsDNA,Not zoonotic
+Ungulate bocaparvovirus 1,ssDNA,Not zoonotic
+Ungulate copiparvovirus 2,ssDNA,Not zoonotic
+Ungulate tetraparvovirus 1,ssDNA,Not zoonotic
+Ungulate tetraparvovirus 2,ssDNA,Not zoonotic
+Upsilonpapillomavirus 1,dsDNA,Not zoonotic
+Visna/maedi virus,ssRNA-RT,Not zoonotic
+Xipapillomavirus 1,dsDNA,Not zoonotic
+Xipapillomavirus 2,dsDNA,Not zoonotic
+Yaounde virus,(+) ssRNA,Not zoonotic
+Yokose virus,(+) ssRNA,Not zoonotic
+Zika virus,(+) ssRNA,Zoonotic
+Adelaide River ephemerovirus,(-) ssRNA,Not zoonotic
+African green monkey simian foamy virus,ssRNA-RT,Not zoonotic
+Alethinophid 1 reptarenavirus,(-) ssRNA,Not zoonotic
+Alethinophid 2 reptarenavirus,(-) ssRNA,Not zoonotic
+Alphapapillomavirus 1,dsDNA,Not zoonotic
+Alphapapillomavirus 11,dsDNA,Not zoonotic
+Alphapapillomavirus 13,dsDNA,Not zoonotic
+Alphapapillomavirus 2,dsDNA,Not zoonotic
+Alphapapillomavirus 3,dsDNA,Not zoonotic
+Alphapapillomavirus 4,dsDNA,Not zoonotic
+Alphapapillomavirus 5,dsDNA,Not zoonotic
+Alphapapillomavirus 6,dsDNA,Not zoonotic
+Alphapapillomavirus 7,dsDNA,Not zoonotic
+Alphapapillomavirus 8,dsDNA,Not zoonotic
+Alphapapillomavirus 9,dsDNA,Not zoonotic
+Anseriform dependoparvovirus 1,ssDNA,Not zoonotic
+Aotine betaherpesvirus 1,dsDNA,Not zoonotic
+Aquareovirus D,dsRNA,Not zoonotic
+Aquareovirus E,dsRNA,Not zoonotic
+Ateline alphaherpesvirus 1,dsDNA,Not zoonotic
+Avastrovirus 1,(+) ssRNA,Not zoonotic
+Avian carcinoma Mill Hill virus 2,ssRNA-RT,Not zoonotic
+Avian myeloblastosis virus,ssRNA-RT,Not zoonotic
+Avian myelocytomatosis virus 29,ssRNA-RT,Not zoonotic
+Avian paramyxovirus 5,(-) ssRNA,Not zoonotic
+Avian sapelovirus,(+) ssRNA,Not zoonotic
+Avian sarcoma virus CT10,ssRNA-RT,Not zoonotic
+Bebaru virus,(+) ssRNA,Not zoonotic
+Berrimah ephemerovirus,(-) ssRNA,Not zoonotic
+Bertioga orthobunyavirus,(-) ssRNA,Not zoonotic
+Betapapillomavirus 2,dsDNA,Not zoonotic
+Betapapillomavirus 3,dsDNA,Not zoonotic
+Betapapillomavirus 4,dsDNA,Not zoonotic
+Betapapillomavirus 5,dsDNA,Not zoonotic
+Betapapillomavirus 6,dsDNA,Not zoonotic
+Blotched snakehead virus,dsRNA,Not zoonotic
+Bokeloh bat lyssavirus,(-) ssRNA,Not zoonotic
+Bouboui virus,(+) ssRNA,Zoonotic
+Bovine alphaherpesvirus 2,dsDNA,Not zoonotic
+Bovine atadenovirus D,dsDNA,Not zoonotic
+Bovine foamy virus,ssRNA-RT,Not zoonotic
+Bovine mastadenovirus A,dsDNA,Not zoonotic
+Bovine mastadenovirus C,dsDNA,Not zoonotic
+Bovine rhinitis A virus,(+) ssRNA,Not zoonotic
+Bovine rhinitis B virus,(+) ssRNA,Not zoonotic
+Bubaline alphaherpesvirus 1,dsDNA,Not zoonotic
+Bukalasa bat virus,(+) ssRNA,Not zoonotic
+Bulbul coronavirus HKU11,(+) ssRNA,Not zoonotic
+Bundibugyo ebolavirus,(-) ssRNA,Not zoonotic
+Bushbush orthobunyavirus,(-) ssRNA,Not zoonotic
+Callitrichine gammaherpesvirus 3,dsDNA,Not zoonotic
+Canary circovirus,ssDNA,Not zoonotic
+Canid alphaherpesvirus 1,dsDNA,Not zoonotic
+Cano Delgadito hantavirus,(-) ssRNA,Not zoonotic
+Caprine arthritis encephalitis virus,ssRNA-RT,Not zoonotic
+Carajas vesiculovirus,(-) ssRNA,Not zoonotic
+Cardiovirus C,(+) ssRNA,Not zoonotic
+Carnivore amdoparvovirus 2,ssDNA,Not zoonotic
+Carnivore bocaparvovirus 3,ssDNA,Not zoonotic
+Caviid betaherpesvirus 2,dsDNA,Not zoonotic
+Cervid alphaherpesvirus 1,dsDNA,Not zoonotic
+Chapare mammarenavirus,(-) ssRNA,Not zoonotic
+Chick syncytial virus,ssRNA-RT,Not zoonotic
+Chicken anemia virus,ssDNA,Not zoonotic
+Chiropteran tetraparvovirus 1,ssDNA,Not zoonotic
+Cricetid gammaherpesvirus 2,dsDNA,Not zoonotic
+Cupixi mammarenavirus,(-) ssRNA,Not zoonotic
+Deltapapillomavirus 1,dsDNA,Not zoonotic
+Deltapapillomavirus 2,dsDNA,Not zoonotic
+Deltapapillomavirus 3,dsDNA,Not zoonotic
+Deltapapillomavirus 5,dsDNA,Not zoonotic
+Deltapapillomavirus 6,dsDNA,Not zoonotic
+Duck hepatitis B virus,dsDNA-RT,Not zoonotic
+Durham tupavirus,(-) ssRNA,Not zoonotic
+Dyodeltapapillomavirus 1,dsDNA,Not zoonotic
+Dyoepsilonpapillomavirus 1,dsDNA,Not zoonotic
+Dyoetapapillomavirus 1,dsDNA,Not zoonotic
+Dyoiotapapillomavirus 1,dsDNA,Not zoonotic
+Dyoiotapapillomavirus 2,dsDNA,Not zoonotic
+Dyokappapapillomavirus 1,dsDNA,Not zoonotic
+Dyolambdapapillomavirus 1,dsDNA,Not zoonotic
+Dyomupapillomavirus 1,dsDNA,Not zoonotic
+Dyonupapillomavirus 1,dsDNA,Not zoonotic
+Dyoomikronpapillomavirus 1,dsDNA,Not zoonotic
+Dyopipapillomavirus 1,dsDNA,Not zoonotic
+Dyorhopapillomavirus 1,dsDNA,Not zoonotic
+Dyosigmapapillomavirus 1,dsDNA,Not zoonotic
+Dyothetapapillomavirus 1,dsDNA,Not zoonotic
+Dyoxipapillomavirus 1,dsDNA,Not zoonotic
+Elapid 1 bornavirus,(-) ssRNA,Not zoonotic
+Epsilonpapillomavirus 1,dsDNA,Not zoonotic
+Equid alphaherpesvirus 3,dsDNA,Not zoonotic
+Equid gammaherpesvirus 7,dsDNA,Not zoonotic
+Equine foamy virus,ssRNA-RT,Not zoonotic
+Equine mastadenovirus A,dsDNA,Not zoonotic
+Equine mastadenovirus B,dsDNA,Not zoonotic
+Erbovirus A,(+) ssRNA,Not zoonotic
+Etapapillomavirus 1,dsDNA,Not zoonotic
+Eubenangee virus,dsRNA,Not zoonotic
+Feline foamy virus,ssRNA-RT,Not zoonotic
+Finch circovirus,ssDNA,Not zoonotic
+Finkel-Biskis-Jinkins murine sarcoma virus,ssRNA-RT,Not zoonotic
+Fowl aviadenovirus C,dsDNA,Not zoonotic
+Frog siadenovirus A,dsDNA,Not zoonotic
+Fujinami sarcoma virus,ssRNA-RT,Not zoonotic
+Gammapapillomavirus 1,dsDNA,Not zoonotic
+Gammapapillomavirus 10,dsDNA,Not zoonotic
+Gammapapillomavirus 11,dsDNA,Not zoonotic
+Gammapapillomavirus 12,dsDNA,Not zoonotic
+Gammapapillomavirus 13,dsDNA,Not zoonotic
+Gammapapillomavirus 14,dsDNA,Not zoonotic
+Gammapapillomavirus 15,dsDNA,Not zoonotic
+Gammapapillomavirus 16,dsDNA,Not zoonotic
+Gammapapillomavirus 17,dsDNA,Not zoonotic
+Gammapapillomavirus 18,dsDNA,Not zoonotic
+Gammapapillomavirus 19,dsDNA,Not zoonotic
+Gammapapillomavirus 2,dsDNA,Not zoonotic
+Gammapapillomavirus 20,dsDNA,Not zoonotic
+Gammapapillomavirus 3,dsDNA,Not zoonotic
+Gammapapillomavirus 4,dsDNA,Not zoonotic
+Gammapapillomavirus 5,dsDNA,Not zoonotic
+Gammapapillomavirus 6,dsDNA,Not zoonotic
+Gammapapillomavirus 7,dsDNA,Not zoonotic
+Gammapapillomavirus 8,dsDNA,Not zoonotic
+Gammapapillomavirus 9,dsDNA,Not zoonotic
+Gardner-Arnstein feline sarcoma virus,ssRNA-RT,Not zoonotic
+Gorilline gammaherpesvirus 1,dsDNA,Not zoonotic
+Great tit siadenovirus A,dsDNA,Not zoonotic
+Guaroa orthobunyavirus,(-) ssRNA,Not zoonotic
+Guinea pig type-C oncovirus,ssRNA-RT,Not zoonotic
+Hardy-Zuckerman feline sarcoma virus,ssRNA-RT,Not zoonotic
+Hare fibroma virus,dsDNA,Not zoonotic
+Harvey murine sarcoma virus,ssRNA-RT,Not zoonotic
+Hepatitis delta virus,(-) ssRNA,Not zoonotic
+Hippotragine gammaherpesvirus 1,dsDNA,Not zoonotic
+Human alphaherpesvirus 3,dsDNA,Not zoonotic
+Human betaherpesvirus 5,dsDNA,Not zoonotic
+Human betaherpesvirus 6A,dsDNA,Not zoonotic
+Human betaherpesvirus 6B,dsDNA,Not zoonotic
+Human betaherpesvirus 7,dsDNA,Not zoonotic
+Human coronavirus HKU1,(+) ssRNA,Not zoonotic
+Human coronavirus NL63,(+) ssRNA,Not zoonotic
+Human immunodeficiency virus 1,ssRNA-RT,Not zoonotic
+Human immunodeficiency virus 2,ssRNA-RT,Not zoonotic
+Human parainfluenza virus 1,(-) ssRNA,Not zoonotic
+Human parainfluenza virus 2,(-) ssRNA,Not zoonotic
+Human parainfluenza virus 4,(-) ssRNA,Not zoonotic
+Human polyomavirus 1,dsDNA,Not zoonotic
+Human polyomavirus 2,dsDNA,Not zoonotic
+Human torovirus,(+) ssRNA,Not zoonotic
+Ictalurid herpesvirus 1,dsDNA,Not zoonotic
+Ictalurid herpesvirus 2,dsDNA,Not zoonotic
+Iguanid herpesvirus 2,dsDNA,Not zoonotic
+Ikoma lyssavirus,(-) ssRNA,Not zoonotic
+Iotapapillomavirus 1,dsDNA,Not zoonotic
+Isla Vista hantavirus,(-) ssRNA,Not zoonotic
+Israel turkey meningoencephalomyelitis virus,(+) ssRNA,Not zoonotic
+Johnston Atoll virus,(-) ssRNA,Not zoonotic
+Jugra virus,(+) ssRNA,Not zoonotic
+Juncopox virus,dsDNA,Not zoonotic
+Jutiapa virus,(+) ssRNA,Not zoonotic
+Kadam virus,(+) ssRNA,Not zoonotic
+Kappapapillomavirus 1,dsDNA,Not zoonotic
+Kedougou virus,(+) ssRNA,Not zoonotic
+Kirsten murine sarcoma virus,ssRNA-RT,Not zoonotic
+Kunsagivirus A,(+) ssRNA,Not zoonotic
+Lactate dehydrogenase-elevating virus,(+) ssRNA,Not zoonotic
+Lambdapapillomavirus 4,dsDNA,Not zoonotic
+Lambdapapillomavirus 5,dsDNA,Not zoonotic
+Latino mammarenavirus,(-) ssRNA,Not zoonotic
+Leporid alphaherpesvirus 4,dsDNA,Not zoonotic
+Lloviu cuevavirus,(-) ssRNA,Not zoonotic
+Lujo mammarenavirus,(-) ssRNA,Not zoonotic
+Luna mammarenavirus,(-) ssRNA,Not zoonotic
+Macacine gammaherpesvirus 4,dsDNA,Not zoonotic
+Macaque simian foamy virus,ssRNA-RT,Not zoonotic
+Mamastrovirus 1,(+) ssRNA,Not zoonotic
+Mamastrovirus 10,(+) ssRNA,Not zoonotic
+Mamastrovirus 12,(+) ssRNA,Not zoonotic
+Mamastrovirus 16,(+) ssRNA,Not zoonotic
+Mamastrovirus 19,(+) ssRNA,Not zoonotic
+Mamastrovirus 4,(+) ssRNA,Not zoonotic
+Mamastrovirus 6,(+) ssRNA,Not zoonotic
+Mamastrovirus 8,(+) ssRNA,Not zoonotic
+Mamastrovirus 9,(+) ssRNA,Not zoonotic
+Mapuera virus,(-) ssRNA,Not zoonotic
+Maraba vesiculovirus,(-) ssRNA,Not zoonotic
+Merino Walk mammarenavirus,(-) ssRNA,Not zoonotic
+Mesocricetus auratus polyomavirus 1,dsDNA,Not zoonotic
+Middelburg virus,(+) ssRNA,Not zoonotic
+Minatitlan orthobunyavirus,(-) ssRNA,Not zoonotic
+Mischivirus A,(+) ssRNA,Not zoonotic
+Moloney murine sarcoma virus,ssRNA-RT,Not zoonotic
+Mopeia mammarenavirus,(-) ssRNA,Not zoonotic
+Mosso das Pedras virus,(+) ssRNA,Not zoonotic
+Muleshoe hantavirus,(-) ssRNA,Not zoonotic
+Mumps virus,(-) ssRNA,Zoonotic
+Munia coronavirus HKU13,(+) ssRNA,Not zoonotic
+Mupapillomavirus 1,dsDNA,Not zoonotic
+Mupapillomavirus 2,dsDNA,Not zoonotic
+Murid betaherpesvirus 8,dsDNA,Not zoonotic
+Murine mastadenovirus A,dsDNA,Not zoonotic
+Murine mastadenovirus B,dsDNA,Not zoonotic
+Murine mastadenovirus C,dsDNA,Not zoonotic
+Mus musculus polyomavirus 1,dsDNA,Not zoonotic
+Mus musculus polyomavirus 2,dsDNA,Not zoonotic
+Mustelid gammaherpesvirus 1,dsDNA,Not zoonotic
+Mynahpox virus,dsDNA,Not zoonotic
+Newbury-1 virus,(+) ssRNA,Not zoonotic
+Nodamura virus,(+) ssRNA,Not zoonotic
+Nupapillomavirus 1,dsDNA,Not zoonotic
+Nyamanini nyavirus,(-) ssRNA,Not zoonotic
+Nyando orthobunyavirus,(-) ssRNA,Not zoonotic
+Omegapapillomavirus 1,dsDNA,Not zoonotic
+Ovine mastadenovirus A,dsDNA,Not zoonotic
+Ovine mastadenovirus B,dsDNA,Not zoonotic
+Panine betaherpesvirus 2,dsDNA,Not zoonotic
+Panine gammaherpesvirus 1,dsDNA,Not zoonotic
+Papiine gammaherpesvirus 1,dsDNA,Not zoonotic
+Parana mammarenavirus,(-) ssRNA,Not zoonotic
+Parapoxvirus of red deer in New Zealand,dsDNA,Not zoonotic
+Parechovirus A,(+) ssRNA,Not zoonotic
+Pasivirus A,(+) ssRNA,Not zoonotic
+Passeriform 1 bornavirus,(-) ssRNA,Not zoonotic
+Pegivirus B,(+) ssRNA,Not zoonotic
+Peruvian horse sickness virus,dsRNA,Not zoonotic
+Phipapillomavirus 1,dsDNA,Not zoonotic
+Pinniped bocaparvovirus 1,ssDNA,Not zoonotic
+Pinniped bocaparvovirus 2,ssDNA,Not zoonotic
+Pinniped dependoparvovirus 1,ssDNA,Not zoonotic
+Porcine circovirus 1,ssDNA,Not zoonotic
+Porcine epidemic diarrhea virus,(+) ssRNA,Not zoonotic
+Porcine mastadenovirus A,dsDNA,Not zoonotic
+Porcine mastadenovirus B,dsDNA,Not zoonotic
+Porcine mastadenovirus C,dsDNA,Not zoonotic
+Porcine torovirus,(+) ssRNA,Not zoonotic
+Porcine type-C oncovirus,ssRNA-RT,Not zoonotic
+Possum atadenovirus A,dsDNA,Not zoonotic
+Primate bocaparvovirus 2,ssDNA,Not zoonotic
+Primate erythroparvovirus 1,ssDNA,Not zoonotic
+Primate erythroparvovirus 3,ssDNA,Not zoonotic
+Primate erythroparvovirus 4,ssDNA,Not zoonotic
+Primate protoparvovirus 1,ssDNA,Not zoonotic
+Psipapillomavirus 1,dsDNA,Not zoonotic
+Psittacinepox virus,dsDNA,Not zoonotic
+Punta Toro phlebovirus,(-) ssRNA,Not zoonotic
+Quailpox virus,dsDNA,Not zoonotic
+Quaranfil virus,(-) ssRNA,Not zoonotic
+Raccoonpox virus,dsDNA,Not zoonotic
+Ranid herpesvirus 1,dsDNA,Not zoonotic
+Ranid herpesvirus 2,dsDNA,Not zoonotic
+Rhinovirus A,(+) ssRNA,Not zoonotic
+Rhinovirus B,(+) ssRNA,Not zoonotic
+Rhinovirus C,(+) ssRNA,Not zoonotic
+Rhopapillomavirus 1,dsDNA,Not zoonotic
+Rodent erythroparvovirus 1,ssDNA,Not zoonotic
+Rodent protoparvovirus 2,ssDNA,Not zoonotic
+Rotavirus E,dsRNA,Not zoonotic
+Rotavirus F,dsRNA,Not zoonotic
+Rous sarcoma virus,ssRNA-RT,Not zoonotic
+Rousettus bat coronavirus HKU9,(+) ssRNA,Not zoonotic
+Rubella virus,(+) ssRNA,Not zoonotic
+Sabia mammarenavirus,(-) ssRNA,Not zoonotic
+Saguinine gammaherpesvirus 1,dsDNA,Not zoonotic
+Saimiriine betaherpesvirus 4,dsDNA,Not zoonotic
+Sal Vieja virus,(+) ssRNA,Not zoonotic
+Salmonid herpesvirus 1,dsDNA,Not zoonotic
+Salmonid herpesvirus 3,dsDNA,Not zoonotic
+San Perlita virus,(+) ssRNA,Not zoonotic
+Scotophilus bat coronavirus 512,(+) ssRNA,Not zoonotic
+Sepik virus,(+) ssRNA,Not zoonotic
+Sicinivirus A,(+) ssRNA,Not zoonotic
+Sigmapapillomavirus 1,dsDNA,Not zoonotic
+Skua siadenovirus A,dsDNA,Not zoonotic
+Skunkpox virus,dsDNA,Not zoonotic
+Snakehead novirhabdovirus,(-) ssRNA,Not zoonotic
+Snyder-Theilen feline sarcoma virus,ssRNA-RT,Not zoonotic
+Southern elephant seal virus,(+) ssRNA,Not zoonotic
+Sparrowpox virus,dsDNA,Not zoonotic
+Squirrel monkey retrovirus,ssRNA-RT,Not zoonotic
+Starlingpox virus,dsDNA,Not zoonotic
+Sturgeon ichtadenovirus A,dsDNA,Not zoonotic
+Sudan ebolavirus,(-) ssRNA,Not zoonotic
+Suid betaherpesvirus 2,dsDNA,Not zoonotic
+Suid gammaherpesvirus 3,dsDNA,Not zoonotic
+Suid gammaherpesvirus 4,dsDNA,Not zoonotic
+Suid gammaherpesvirus 5,dsDNA,Not zoonotic
+Swan circovirus,ssDNA,Not zoonotic
+Swinepox virus,dsDNA,Not zoonotic
+Taterapox virus,dsDNA,Not zoonotic
+Thetapapillomavirus 1,dsDNA,Not zoonotic
+Thrush coronavirus HKU12,(+) ssRNA,Not zoonotic
+Timboteua orthobunyavirus,(-) ssRNA,Not zoonotic
+Topografov hantavirus,(-) ssRNA,Not zoonotic
+Torque teno douroucouli virus,ssDNA,Not zoonotic
+Torque teno felis virus,ssDNA,Not zoonotic
+Torque teno felis virus 2,ssDNA,Not zoonotic
+Torque teno midi virus 1,ssDNA,Not zoonotic
+Torque teno midi virus 10,ssDNA,Not zoonotic
+Torque teno midi virus 11,ssDNA,Not zoonotic
+Torque teno midi virus 12,ssDNA,Not zoonotic
+Torque teno midi virus 13,ssDNA,Not zoonotic
+Torque teno midi virus 14,ssDNA,Not zoonotic
+Torque teno midi virus 15,ssDNA,Not zoonotic
+Torque teno midi virus 2,ssDNA,Not zoonotic
+Torque teno midi virus 3,ssDNA,Not zoonotic
+Torque teno midi virus 4,ssDNA,Not zoonotic
+Torque teno midi virus 5,ssDNA,Not zoonotic
+Torque teno midi virus 6,ssDNA,Not zoonotic
+Torque teno midi virus 7,ssDNA,Not zoonotic
+Torque teno midi virus 8,ssDNA,Not zoonotic
+Torque teno midi virus 9,ssDNA,Not zoonotic
+Torque teno mini virus 1,ssDNA,Not zoonotic
+Torque teno mini virus 10,ssDNA,Not zoonotic
+Torque teno mini virus 11,ssDNA,Not zoonotic
+Torque teno mini virus 12,ssDNA,Not zoonotic
+Torque teno mini virus 2,ssDNA,Not zoonotic
+Torque teno mini virus 3,ssDNA,Not zoonotic
+Torque teno mini virus 4,ssDNA,Not zoonotic
+Torque teno mini virus 5,ssDNA,Not zoonotic
+Torque teno mini virus 6,ssDNA,Not zoonotic
+Torque teno mini virus 7,ssDNA,Not zoonotic
+Torque teno mini virus 8,ssDNA,Not zoonotic
+Torque teno mini virus 9,ssDNA,Not zoonotic
+Torque teno sus virus k2a,ssDNA,Not zoonotic
+Torque teno tamarin virus,ssDNA,Not zoonotic
+Torque teno tupaia virus,ssDNA,Not zoonotic
+Torque teno virus 1,ssDNA,Not zoonotic
+Torque teno virus 10,ssDNA,Not zoonotic
+Torque teno virus 11,ssDNA,Not zoonotic
+Torque teno virus 12,ssDNA,Not zoonotic
+Torque teno virus 13,ssDNA,Not zoonotic
+Torque teno virus 14,ssDNA,Not zoonotic
+Torque teno virus 15,ssDNA,Not zoonotic
+Torque teno virus 16,ssDNA,Not zoonotic
+Torque teno virus 17,ssDNA,Not zoonotic
+Torque teno virus 18,ssDNA,Not zoonotic
+Torque teno virus 19,ssDNA,Not zoonotic
+Torque teno virus 2,ssDNA,Not zoonotic
+Torque teno virus 20,ssDNA,Not zoonotic
+Torque teno virus 21,ssDNA,Not zoonotic
+Torque teno virus 22,ssDNA,Not zoonotic
+Torque teno virus 23,ssDNA,Not zoonotic
+Torque teno virus 24,ssDNA,Not zoonotic
+Torque teno virus 25,ssDNA,Not zoonotic
+Torque teno virus 26,ssDNA,Not zoonotic
+Torque teno virus 27,ssDNA,Not zoonotic
+Torque teno virus 28,ssDNA,Not zoonotic
+Torque teno virus 29,ssDNA,Not zoonotic
+Torque teno virus 3,ssDNA,Not zoonotic
+Torque teno virus 4,ssDNA,Not zoonotic
+Torque teno virus 5,ssDNA,Not zoonotic
+Torque teno virus 6,ssDNA,Not zoonotic
+Torque teno virus 7,ssDNA,Not zoonotic
+Torque teno virus 8,ssDNA,Not zoonotic
+Torque teno virus 9,ssDNA,Not zoonotic
+Torque teno zalophus virus 1,ssDNA,Not zoonotic
+Trager duck spleen necrosis virus,ssRNA-RT,Not zoonotic
+Tree shrew mastadenovirus A,dsDNA,Not zoonotic
+Tupaia tupavirus,(-) ssRNA,Not zoonotic
+Tupaiid betaherpesvirus 1,dsDNA,Not zoonotic
+Turkey aviadenovirus B,dsDNA,Not zoonotic
+Turkeypox virus,dsDNA,Not zoonotic
+Tylonycteris bat coronavirus HKU4,(+) ssRNA,Not zoonotic
+Umatilla virus,dsRNA,Not zoonotic
+Ungulate bocaparvovirus 2,ssDNA,Not zoonotic
+Ungulate bocaparvovirus 3,ssDNA,Not zoonotic
+Ungulate bocaparvovirus 4,ssDNA,Not zoonotic
+Ungulate bocaparvovirus 5,ssDNA,Not zoonotic
+Ungulate copiparvovirus 1,ssDNA,Not zoonotic
+Ungulate erythroparvovirus 1,ssDNA,Not zoonotic
+Ungulate protoparvovirus,ssDNA,Not zoonotic
+Ungulate tetraparvovirus 3,ssDNA,Not zoonotic
+Ungulate tetraparvovirus 4,ssDNA,Not zoonotic
+Upsilonpapillomavirus 3,dsDNA,Not zoonotic
+UR2 sarcoma virus,ssRNA-RT,Not zoonotic
+Variola virus,dsDNA,Not zoonotic
+Viper retrovirus,ssRNA-RT,Not zoonotic
+Walleye dermal sarcoma virus,ssRNA-RT,Not zoonotic
+Walleye epidermal hyperplasia virus 1,ssRNA-RT,Not zoonotic
+Walleye epidermal hyperplasia virus 2,ssRNA-RT,Not zoonotic
+West Caucasian bat lyssavirus,(-) ssRNA,Not zoonotic
+White bream virus,(+) ssRNA,Not zoonotic
+Woodchuck hepatitis virus,dsDNA-RT,Not zoonotic
+Y73 sarcoma virus,ssRNA-RT,Not zoonotic
+Yellowtail ascites virus,dsRNA,Not zoonotic
+Zetapapillomavirus 1,dsDNA,Not zoonotic
